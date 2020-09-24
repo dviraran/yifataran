@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'The Effects of Specialization: Empirical Evidence from an Economic Court'
+title: 'The Effect of Specialised Courts over Time'
 subtitle: ''
 summary: ''
 authors:
@@ -60,7 +60,7 @@ abstract: "This article investigates the effect of creating a specialized econom
   \ a model for use by other researchers. We conclude that specialization may be especially\
   \ productive in developing markets like Israel, where the use of private lawsuits\
   \ to promote investor protection is relatively new and growing rapidly. "
-publication: '*SSRN Electronic Journal*'
+publication: '*Time, Law and Change: An Interdisciplinary Study (Ranchordas S. and Roznai Y. eds.), Oxford, Hart Publishing*'
 url_pdf: https://papers.ssrn.com/abstract=2802353
 doi: 10.2139/ssrn.2802353
 ---
