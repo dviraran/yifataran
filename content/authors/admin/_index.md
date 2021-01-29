@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Yifat is an Assistant Professor at the Law School of Haifa University, and a visiting scholar at the Faculty of Industrial Engineering & Management at the Technion - Israel Insititute for Technology. 
+Yifat is an incoming Assistant Professor at the Law School of Haifa University, and a visiting scholar at the Faculty of Industrial Engineering & Management at the Technion - Israel Insititute for Technology. 
 
 Yifat's scholarship examines legal conditions that facilitate early investment in high-growth technology companies and influence the distribution of the wealth these firms create. Her research places special emphasis on the relationship between venture capital and human capital and the incentive structures that mediate this interaction. Yifat graduated with a JSD from Stanford University in 2020, where she was a Donna Schweers and Thomas Geiser Interdisciplinary Graduate Fellow (SIGF), and an Olin Program in Law and Economics Fellow. 
 
