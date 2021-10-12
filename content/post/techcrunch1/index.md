@@ -28,5 +28,5 @@ image:
 projects: 
   - options
 ---
-ThechCrunch
+TechCrunch
 
