@@ -92,11 +92,11 @@ email = "yifata@technion.ac.il"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "The Faculty of Industrial Engineering and Management | Technion - Israel Institute of Technology", city = "Technion City, Haifa", postcode = "3200003", country = "Israel", country_code = "IL"}
+address = {street = "Abba Khoushy Ave 199", city = "Haifa", postcode = "3498838", country = "Israel", country_code = "IL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "32.774313", longitude = "35.023693"}
+coordinates = {latitude = "32.76182657642207", longitude = "35.01943256931413"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

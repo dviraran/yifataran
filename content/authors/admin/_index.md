@@ -24,6 +24,7 @@ interests:
 - Corporate Law & Governance
 - Securities Regulation
 - Law & Entrepreneurship
+- Venture Capital
 
 education:
   courses:
@@ -39,7 +40,7 @@ education:
   - course: LLB
     institution: Hebrew University
     year: 2010
-    
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -73,10 +74,8 @@ user_groups:
 - Visitors
 ---
 
-Yifat is an incoming Assistant Professor at the Law School of Haifa University, and a visiting scholar at the Faculty of Industrial Engineering & Management at the Technion - Israel Insititute for Technology. 
-
-Yifat's scholarship examines legal conditions that facilitate early investment in high-growth technology companies and influence the distribution of the wealth these firms create. Her research places special emphasis on the relationship between venture capital and human capital and the incentive structures that mediate this interaction. Yifat graduated with a JSD from Stanford University in 2020, where she was a Donna Schweers and Thomas Geiser Interdisciplinary Graduate Fellow (SIGF), and an Olin Program in Law and Economics Fellow. 
-
-Yifat holds an LLB in Law and Humanities (summa cum laude, 2010) and an LLM in Law (magna cum laude, 2013), both from the Hebrew University of Jerusalem. She also holds a JSM in International Legal Studies from Stanford Law School (2015). During her studies, Yifat was a member of the editorial board of the Hebrew University’s major law review and served as a research and teaching assistant in numerous courses. Yifat received an array of honors and awards, including the John Hart Ely Prize in Law and Economics, an International Peace Scholarship from the P.E.O. International Sisterhood (twice), and the E. David Fischman Scholarship for most accomplished Israeli students in law, political science, and economics.
-
-Prior to her arrival at Stanford, Yifat practiced commercial and securities litigation in a Jerusalem-based law firm and clerked for two former Chief Justices of the Israeli Supreme Court (Chief Justice Dorit Beinish and Chief Justice Asher Grunis).
+I am an Assistant Professor at the Law School of Haifa University, and a visiting scholar at the Faculty of Industrial Engineering & Management at the Technion - Israel Institute for Technology.
+  
+My primary research interests lie in corporate law and governance and in securities regulation, with a focus on venture capital and the entrepreneurial process. Although corporate law literature mainly centers on public corporations and markets, an ever-growing share of the overall economic activity is carried out by private venture-capital backed firms. My scholarship responds to this long-term trend by examining the legal conditions that facilitate the growth of these companies and that influence the distribution of the wealth these companies create. My work specifically emphasizes the relationship between venture capital and human capital and reconceptualizes the boundaries between corporate and securities law, on one hand, and labor law, on the other.
+ 
+My approach offers a new dimension in the securities regulation debate, as it seeks to integrate labor market considerations with the capital market considerations that have traditionally guided the Securities and Exchange Commission (SEC). Thus, it proposes broader efficiency-based insights that cannot be derived from the traditional exclusive focus on capital market efficiency. Such a paradigm shift is warranted due to two long term trends: the widespread and growing use of equity-based compensation has transformed high-skilled labor from a pure labor relationship into one that involves a significant investment component, and; highly skilled human capital is rapidly replacing financial capital as the limiting factor in economic development and technological progress. Facilitating an efficient allocation of talent, alongside efficient allocation of financial capital, is therefore a worthy goal for the securities regulatory regime, which requires a reconceptualization of underlying theory and practice.   

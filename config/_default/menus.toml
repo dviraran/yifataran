@@ -14,9 +14,19 @@
   weight = 40
 
 [[main]]
+  name = "Work in progress"
+  url = "#workinprogress"
+  weight = 50
+
+[[main]]
+  name = "Media"
+  url = "#posts"
+  weight = 70
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
