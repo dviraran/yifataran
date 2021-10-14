@@ -41,6 +41,27 @@ education:
     institution: Hebrew University
     year: 2010
 
+jobs:
+ courses:  
+  - course: Donna Schweers and Thomas Geiser Interdisciplinary Graduate Fellowship (Stanford SIGF)
+  - course: David. E Fischman Scholarship
+  - course:  Decalogue Fund Scholarship
+  - course:  Stanford Rock Center for Corporate Governance Research Grant 
+  - course:  John M. Olin Program in Law and Economics at Stanford Research Grant 
+  - course:  P.E.O. International Peace Scholarship 
+  - course:  Silvan Cohen Fund Scholarship
+  - course:  Lamas Fund Scholarship
+  - course:  John M. Olin Program in Law and Economics Fellowship 
+  - course:  John Ely Hart Award for Legal Writing 
+  - course:  Stanford Legal Writing Award in IP Law 
+  - course:  Gerald Gunther Award in Modern American Legal Thought 
+  - course:  Stanford Law School Scholarship 
+  - course:  Hebrew University's Law School LLM Valedictorian 
+  - course:  Hebrew University's Law School LLB Valedictorian 
+  - course:  Lionel Cohen Award 
+  - course:  Wolf Foundation Award 
+  - course:  Eisenberg Award 
+  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
