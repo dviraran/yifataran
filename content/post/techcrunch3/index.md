@@ -1,5 +1,5 @@
 ---
-title: "What’s happening in venture law in 2021?""
+title: "What’s happening in venture law in 2021?"
 subtitle: TechCrunch
 authors:
 - admin
