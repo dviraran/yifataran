@@ -104,24 +104,6 @@
       </div>
       {{ end }}
 
-      &emsp;<h3>Awards</h3>
-      {{ with $person.jobs }}
-      <div class="col-md-12">
-        <h3>{{ i18n "jobs" | markdownify }}</h3>
-        <ul class="ul-edu fa-ul">
-          {{ range .courses }}
-          <li>
-            <i class="fa-li fas fa-award"></i>
-            <div class="description">
-              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
-            </div>
-          </li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-
     </div>
   </div>
 </div>

@@ -40,27 +40,6 @@ education:
   - course: LLB
     institution: Hebrew University
     year: 2010
-
-jobs:
- courses:  
-  - course: Donna Schweers and Thomas Geiser Interdisciplinary Graduate Fellowship (Stanford SIGF)
-  - course: David. E Fischman Scholarship
-  - course:  Decalogue Fund Scholarship
-  - course:  Stanford Rock Center for Corporate Governance Research Grant 
-  - course:  John M. Olin Program in Law and Economics at Stanford Research Grant 
-  - course:  P.E.O. International Peace Scholarship 
-  - course:  Silvan Cohen Fund Scholarship
-  - course:  Lamas Fund Scholarship
-  - course:  John M. Olin Program in Law and Economics Fellowship 
-  - course:  John Ely Hart Award for Legal Writing 
-  - course:  Stanford Legal Writing Award in IP Law 
-  - course:  Gerald Gunther Award in Modern American Legal Thought 
-  - course:  Stanford Law School Scholarship 
-  - course:  Hebrew University's Law School LLM Valedictorian 
-  - course:  Hebrew University's Law School LLB Valedictorian 
-  - course:  Lionel Cohen Award 
-  - course:  Wolf Foundation Award 
-  - course:  Eisenberg Award 
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,7 +48,7 @@ jobs:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:aranyifat@law.haifa.ac.il
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Yifat_ar
@@ -86,7 +65,7 @@ social:
 #  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yifata@technion.ac.il"
+email: "aranyifat@law.haifa.ac.il"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
