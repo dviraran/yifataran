@@ -74,7 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor at Haifa University's Faculty of Law, and a visiting scholar at the Faculty of Industrial Engineering & Management at the Technion - Israel Institute for Technology.
-  
-My primary research interests lie in corporate law and governance and in securities regulation, with a focus on venture capital and the entrepreneurial process. Although corporate law literature mainly centers on public corporations and markets, an ever-growing share of the overall economic activity is carried out by private venture-capital backed firms. My scholarship responds to this long-term trend by examining the legal conditions that facilitate the growth of these companies and that influence the distribution of the wealth these companies create. My work specifically emphasizes the relationship between venture capital and human capital and reconceptualizes the boundaries between corporate and securities law, on one hand, and labor law, on the other.
- 
+I am an Assistant Professor of Law at the University of Haifa. I am also a lecturer in the MBA program at the Technion, Israel Institute of Technology, and a research fellow at the Rutgers Institute for the Study of Employee Ownership and Profit Sharing. 
+
+I am primarily interested in corporate law and governance and securities regulation, with a focus on venture capital and entrepreneurship. While corporate law literature focuses mainly on public corporations and markets, venture-backed firms account for an increasingly large share of overall economic activity. Considering this long-term trend, my scholarship examines how legal conditions facilitate the growth of these companies and the distribution of wealth they produce. As part of my research, I explore the relationship between venture capital and human capital investments, in an attempt to redefine the boundaries between corporate and securities law, on the one hand, and labor law, on the other hand.
