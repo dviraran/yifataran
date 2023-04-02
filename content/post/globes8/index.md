@@ -4,7 +4,7 @@ subtitle: Globes
 authors:
 - admin
 
-date: "2023-03-2T00:00:00Z"
+date: "2023-03-02T00:00:00Z"
 featured: false
 draft: false
 
