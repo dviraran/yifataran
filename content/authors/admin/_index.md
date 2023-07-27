@@ -14,7 +14,7 @@ role: Assistant Professor of Business Law
 
 # Organizations/Affiliations
 organizations:
-- name: Haifa University
+- name: University of Haifa
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
